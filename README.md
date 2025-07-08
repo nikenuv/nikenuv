@@ -5,7 +5,7 @@
 #### Experience
 
 ##### 🖥️ Web Development
-[![Web](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,astro,django,flask&perline=8)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,astro,django,flask&perline=13)](https://skillicons.dev)
 
 ##### 📱 Mobile Development
 [![Mobile](https://skillicons.dev/icons?i=flutter,swift&perline=13)](https://skillicons.dev)
