@@ -18,3 +18,11 @@
 
 ##### 📊 Others
 [![Others](https://skillicons.dev/icons?i=kubernetes,docker,gcp,vercel&perline=8)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikenuv/nikenuv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikenuv/nikenuv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nikenuv/nikenuv/output/pacman-contribution-graph.svg">
+</picture>
+
+###
